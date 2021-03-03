@@ -6,6 +6,7 @@ public class Method_One {
 		
 		System.out.println("frist methos print ");
 		
+		System.out.println("Second methos print ");
 		
 	}
 	
