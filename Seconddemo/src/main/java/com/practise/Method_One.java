@@ -10,6 +10,8 @@ public class Method_One {
 		
 		System.out.println("Three");
 		
+		System.out.println("four");
+		
 	}
 	
 	
