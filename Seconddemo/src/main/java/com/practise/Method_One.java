@@ -8,6 +8,8 @@ public class Method_One {
 		
 		System.out.println("Second methos print ");
 		
+		System.out.println("Three");
+		
 	}
 	
 	
