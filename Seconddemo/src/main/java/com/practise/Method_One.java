@@ -12,6 +12,8 @@ public class Method_One {
 		
 		System.out.println("four");
 		
+		System.out.println("Five");
+		
 	}
 	
 	
